@@ -1,0 +1,16 @@
+bidder,item,amount
+Acme Mechanical,Rooftop unit replacement,"84,000"
+Acme Mechanical,Ductwork modifications,"26,500"
+Acme Mechanical,Controls integration,"12,800"
+Acme Mechanical,Testing and balancing,"6,200"
+Acme Mechanical,Crane and rigging,"5,400"
+Bay Climate,Rooftop unit replacement,"79,500"
+Bay Climate,Ductwork modifications,"24,000"
+Bay Climate,Controls integration,excluded
+Bay Climate,Testing and balancing,"5,800"
+Bay Climate,Crane and rigging,excluded
+Summit Air,Rooftop unit replacement,"91,200"
+Summit Air,Ductwork modifications,"28,900"
+Summit Air,Controls integration,"14,100"
+Summit Air,Testing and balancing,"6,500"
+Summit Air,Crane and rigging,"6,000"
