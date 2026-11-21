@@ -1,5 +1,7 @@
 # bid-tabulation-tool
 
+[![CI](https://github.com/yassine2med/bid-tabulation-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/bid-tabulation-tool/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Compares contractor bids line by line and prices the scope each bidder left out, so the lowest bid is not just the most incomplete one.
 
 ![Screenshot](docs/screenshot.png)
